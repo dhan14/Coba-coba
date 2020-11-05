@@ -9,7 +9,7 @@ namespace TugasInheritance
             //Buat objek baru
             Sedan vios = new Sedan();
             Boeing airAsia737 = new Boeing();
-
+            //Testing update
             //lakukan prosedur
             Console.WriteLine("Saya Mobil Vios");
             vios.kadarOktan();
