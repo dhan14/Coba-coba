@@ -2,7 +2,7 @@ using System;
 
 namespace TugasInheritance
 {
-    public class Mobil : Transportasi
+    public class Mobil : Transportasi//mobil ban nya ngagulutuk
     {
         public Mobil()
         {
